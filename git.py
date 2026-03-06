@@ -1,0 +1,17 @@
+#git_commit_atualizado_prod_origin_prod
+#git_local_com_atualizações-novas
+#git remoto na frente 1 commit 
+#git local sendo feiot agora as 01:19
+#git_local_atualizado_prod_origin_prodasdfadfadfadasdffsdsfadasdf
+#git_local_atualizado_comit_atras_01:25
+#git_local_atualizado_comit_atras_01:25
+#git_local_atualizado_comit_atras_01:25
+#git_local_atualizado_comit_atras_01:36 
+#git_local_atualizado_comit_atras_01:36
+#git_local_atualizado_comit_atras_01:36
+#git_local_atualizado_comit_atras_01:51
+#git_local_atualizado_comit_atras_01:51
+#git_local_atualizado_comit_atras_01:51 
+#git_local_atualizado_comit_atras_02:12
+#git_local_atualizado_comit_atras_02:12
+#git_local_atualizado_comit_atras_02:12
